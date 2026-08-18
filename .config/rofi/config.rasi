@@ -1,0 +1,18 @@
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+@theme "/home/minessh/.config/rofi/themes/minimal_launcher/minimal_launcher.rasi"
+
+configuration {
+    modi: "window";
+    show-icons: true;
+    icon-theme: "Zafiro-icons-Dark";
+    drun-display-format: "{name}";
+    window-format: "{t}";
+    display-window: "Windows";
+    display-run: "Commands";
+    display-drun: "Apps";
+}
+
